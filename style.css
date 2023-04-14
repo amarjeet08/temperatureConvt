@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#main{
+  display: grid;
+  align-items: center;
+  justify-content: center;
+  border: 5px solid orange;
+  margin-right: 500px;
+  margin-left: 500px;
+  margin-top: 200px;
+}
+.header1{
+  font-size: 50px;
+  margin-left: 45px;
+}
+#celcius{
+  font-size: 23px;
+}
+#change{
+  font-size: 20px;
+  margin-block: 25px;
+}
+.header2{
+  font-size: 50px;
+  margin-left: 5px;
+}
+#Fahrenheit{
+  font-size: 23px;
+  margin-block-end: 30px;
+}
+
+
+
+
+
+
